@@ -25,7 +25,7 @@ function verificacionFibonacci(numero) {
   }
 }
 
-// Función para mostrar los primeros m números de Fibonacci, contando el 0
+// Función para mostrar los primeros m números de Fibonacci
 function primerosFibonacci(m) {
   var numerosFibonacci = [];
   for (var i = 0; i < m; i++) {

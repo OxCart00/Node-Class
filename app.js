@@ -9,5 +9,5 @@ var fibonacciNumbero = verificacionFibonacci(numero);
 console.log(`El número ${numero} ${fibonacciNumbero ? '¡Es!' : '!No es¡'} de la serie de Fibonacci.`);
 
 // Mostrar los primeros m números de Fibonacci
-var m = 11;
+var m = 10;
 console.log(`Los primeros ${m} numeros de fibonacci son: ${primerosFibonacci(m)}`); 
