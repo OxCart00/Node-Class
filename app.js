@@ -4,4 +4,10 @@ const { mostrarDatos, solicitarFrases, guardarSuma } = require('./read_n_print')
 
 // solicitarFrases();
 
-// guardarSuma('numeros.txt');
+guardarSuma('numeros.txt', 'original.txt')
+  .then((mensaje) => {
+    console.log(mensaje);
+  })
+  .catch((error) => {
+    console.error(error);
+  });
