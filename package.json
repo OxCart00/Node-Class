@@ -1,0 +1,25 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OxCart00/Node-Class.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OxCart00/Node-Class/issues"
+  },
+  "homepage": "https://github.com/OxCart00/Node-Class#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "i": "^0.3.7",
+    "nodemon": "^3.0.1"
+  }
+}
