@@ -1,0 +1,22 @@
+{
+  "name": "node-class",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OxCart00/Node-Class.git"
+  },
+  "author": "oscar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OxCart00/Node-Class/issues"
+  },
+  "homepage": "https://github.com/OxCart00/Node-Class#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
