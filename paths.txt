@@ -1,0 +1,12 @@
+Ruta principal: http://localhost:3000/
+
+Ruta saludo: http://localhost:3000/saludo/Ingrese_el_nombre
+
+Ruta post: http://localhost:3000/post 
+
+JSON para el post:
+{
+  "nombre": "Juan",
+  "edad": 30,
+  "ciudad": "Buenos Aires"
+}
