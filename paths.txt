@@ -1,3 +1,5 @@
+Para iniciar el progrma: npm start
+
 Ruta principal: http://localhost:3000/
 
 Ruta saludo: http://localhost:3000/saludo/Ingrese_el_nombre
